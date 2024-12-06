@@ -1,0 +1,10 @@
+{
+    "name": "solana-checker",
+    "type": "module",
+    "dependencies": {
+      "chalk": "^5.3.0",
+      "console-table-printer": "^2.11.1",
+      "node-fetch": "^3.3.2",
+      "ora": "^7.0.1"
+    }
+  }
